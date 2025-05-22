@@ -5,6 +5,7 @@
 🎨 Outside of tech, I’m deeply interested in arts, music, and design.
 
 🌱 Currently learning: Flutter, Firebase, and backend integration with PHP & MySQL  
+🛠️ Currently working on my final year project **Reface3D** — a 3D face reconstruction app using Flutter and Unity. Will update the repository once it’s complete!  
 📂 Check out my projects below – many of them are real-world assignments turned into working apps.  
 💼 I'm open to internship opportunities and collaborations in software development or UI/UX.
 
